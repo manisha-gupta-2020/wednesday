@@ -49,4 +49,8 @@ main p a {
 main p a:hover {
   color: #e60026;
 }
+
+.special {
+  color: green;
+}
 /*# sourceMappingURL=main.css.map */
